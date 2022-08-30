@@ -1,0 +1,59 @@
+/*Login css*/
+.my-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.my-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 15px;
+}
+
+/*Form css*/
+.showFeedback {
+    display: flex !important;
+}
+
+.user-info-uni {
+    position: relative; 
+    bottom: 12px;
+}
+
+.buttons-html5{
+    margin-right: 5px;
+}
+
+.alert .close, .alert .mailbox-attachment-close {
+    color: #000;
+    font-weight: 800;
+}
+
+.alert-dismissible .close, .alert-dismissible .mailbox-attachment-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+    padding: .75rem 1.25rem;
+    color: inherit;
+}
+
+button.close, button.mailbox-attachment-close {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+}
